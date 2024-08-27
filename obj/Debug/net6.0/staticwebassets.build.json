@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "5H2v5hwsKiUEif9iq4vxlP3HR7DXqfjlD0B5u6P9EuY=",
+  "Source": "CodingDojo",
+  "BasePath": "_content/CodingDojo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CodingDojo/wwwroot",
+      "Source": "CodingDojo",
+      "ContentRoot": "/Users/hakeemalabi/Desktop/CodingDojo/wwwroot/",
+      "BasePath": "_content/CodingDojo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/hakeemalabi/Desktop/CodingDojo/wwwroot/css/style.css",
+      "SourceId": "CodingDojo",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/hakeemalabi/Desktop/CodingDojo/wwwroot/",
+      "BasePath": "_content/CodingDojo",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/style.css"
+    }
+  ]
+}
